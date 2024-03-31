@@ -1,10 +1,5 @@
 package org.example.di;
 
-import org.example.annotation.Inject;
-import org.example.controller.UserController;
-import org.reflections.ReflectionUtils;
-import org.reflections.Reflections;
-
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.util.*;
