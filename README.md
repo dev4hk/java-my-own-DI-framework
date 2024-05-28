@@ -11,10 +11,11 @@ This project is to mimic the implementation of BeanFactory in Spring, which is u
 - Java
 - Gradle
 - Reflections
+- JUnit
 
 ## Lessons Learned
 
-- Reflections API is helpful to find and instantiate classes with annotations
+- Reflections API is helpful to find and instantiate classes with annotations by accessing constructor of class
 
 - The instances can be stored in memory (in this project, HashMap) and managed throughout runtime using @Retention(RetentionPolicy.RUNTIME) annotation
 
