@@ -8,10 +8,9 @@ This project is to mimic the implementation of BeanFactory in Spring, which is u
 
 ## Tech Stack
 
-- Java
-- Gradle
-- Reflections
-- JUnit
+![Static Badge](https://img.shields.io/badge/Java-blue)
+![Static Badge](https://img.shields.io/badge/Gradle-blue)
+![Static Badge](https://img.shields.io/badge/Reflections-blue)
 
 ## Lessons Learned
 
